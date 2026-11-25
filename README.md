@@ -1,2 +1,6 @@
-# web-osint-citation-extractor
-Extracts page titles, canonical URLs, meta descriptions, and structured source citations for open-web verification.
+# Web OSINT Citation Extractor
+Python helper script for extracting and formatting verifiable metadata, canonical links, and timestamps from public web sources.
+
+## Usage
+```bash
+python extract_citation.py [https://example.com](https://example.com)
